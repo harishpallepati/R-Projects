@@ -1,2 +1,2 @@
 # Data-Adventure
-First project
+August - 2018 // Learning of R and Python 
