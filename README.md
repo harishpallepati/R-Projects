@@ -1,4 +1,4 @@
-# Regression Projects 
+# R-Projects 
 
 Admissions Prediction_DataSource : Kaggle 
 
