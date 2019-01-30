@@ -1,4 +1,5 @@
 # Regression Projects 
-Admissions Prediction - DataSource : Kaggle 
 
+Admissions Prediction_DataSource : Kaggle 
 
+SocialMediaAnalytics_CommunityDetection
