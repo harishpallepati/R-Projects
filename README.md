@@ -1,2 +1,3 @@
-# Admission Analysis
-Kaggle dataset
+# Projects 
+Admissions Prediction - DataSource : Kaggle 
+SocialMediaAnalytics - CommunityDetection 
