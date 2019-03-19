@@ -1,6 +1,6 @@
 ## Social Media Analytics - Community Detection Analysis 
 ##    (Use Undirected Network)
-## Last updated - November 8, 2018
+
 
 library(dplyr)
 library(igraph)
